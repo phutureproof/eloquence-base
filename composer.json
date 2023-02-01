@@ -20,11 +20,16 @@
             "email": "jarek@softonsofa.com",
             "homepage": "https://softonsofa.com/",
             "role": "Developer"
+        },
+        {
+            "name": "Dale Paget",
+            "email": "dale.phutureproof@gmail.com",
+            "role": "Developer"
         }
     ],
     "require": {
         "php": ">=7.1",
-        "sofa/hookable": ">=5.5",
+        "phutureproof/hookable": ">=5.5",
         "illuminate/database": ">=5.5"
     },
     "require-dev": {
